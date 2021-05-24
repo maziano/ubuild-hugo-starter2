@@ -6,7 +6,10 @@ title = "Colour Spark"
 [[page_sections]]
 block = "header-1"
 logo = "/uploads/cs_clipped_rev_1-1.png"
-navigation = []
 template = "navigation-header"
+[[page_sections.navigation]]
+link_text = "Home"
+link_url = "/home"
+open_in_new_tab = false
 
 +++

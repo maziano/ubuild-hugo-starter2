@@ -20,7 +20,7 @@ block = "header-2"
 logo = "/uploads/cs_clipped_rev_1-1.png"
 template = "navigation-header-w-button"
 [page_sections.cta]
-link_text = "Download?"
+link_text = "Contact Us?"
 link_url = "#"
 open_in_new_tab = false
 [[page_sections.navigation]]

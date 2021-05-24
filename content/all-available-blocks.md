@@ -58,7 +58,7 @@ open_in_new_tab = true
 url = "https://forestry.io"
 [page_sections.image]
 alt_text = "App preview"
-image = "/uploads/2018/06/21/product-shot-1.png"
+image = "/uploads/3572217.jpg"
 [[page_sections]]
 block = "feature-1"
 content = "Doesn't look like <strong>anything to me.</strong>"

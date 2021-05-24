@@ -14,7 +14,7 @@ page_sections:
   - link_url: "#"
     link_text: Pricing
   - link_url: "#"
-    link_text: Team
+    link_text: About us
   cta:
     link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     link_text: Download

@@ -34,7 +34,7 @@ open_in_new_tab = false
 [[page_sections.navigation]]
 link_text = "Hugo Docs"
 link_url = "http://gohugo.io/documentation/"
-open_in_new_tab = true
+open_in_new_tab = false
 [[page_sections]]
 block = "header-3"
 logo = "/uploads/2018/06/21/forestry-full.svg"
@@ -44,7 +44,7 @@ block = "hero-1"
 heading = "All<br><strong>available blocks.</strong>"
 template = "text-only-hero-banner"
 [[page_sections]]
-background_image = "/uploads/2018/06/21/hero-2-bg.png"
+background_image = "/uploads/webbackgrounf.jpg"
 block = "hero-2"
 content = "We have blocks to spare"
 headline = "Blocks on<br>blocks<br><strong>on blocks</strong>"

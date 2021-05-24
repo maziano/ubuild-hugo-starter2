@@ -21,7 +21,7 @@ link_url = "https://github.com"
 open_in_new_tab = true
 [[page_sections]]
 block = "header-2"
-logo = "/uploads/2018/06/21/forestry-full.svg"
+logo = "/uploads/cs_clipped_rev_1-1.png"
 template = "navigation-header-w-button"
 [page_sections.cta]
 link_text = "Download?"

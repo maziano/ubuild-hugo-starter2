@@ -19,5 +19,19 @@ open_in_new_tab = false
 link_text = "Home"
 link_url = "/home"
 open_in_new_tab = false
+[[page_sections]]
+background_image = "/uploads/3572217.jpg"
+block = "hero-2"
+content = "Our <strong><em>Digital T-shirt printing</em></strong><span class=\"Apple-converted-space\"> services </span>offers exceptional print quality and superior washability on all fabrics of your choice including 100% Cotton, Tri-Blends, or Polyester."
+headline = "Providing Digital and Screen Printing Services and Sales to Australia and Beyond"
+template = "hero-banner-w-image"
+[page_sections.cta]
+enabled = true
+link_text = "Learn More"
+link_url = "/"
+open_in_new_tab = false
+[page_sections.image]
+alt_text = ""
+image = ""
 
 +++
